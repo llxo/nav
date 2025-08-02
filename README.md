@@ -53,7 +53,7 @@
 1. **克隆仓库**
    ```bash
    git clone https://github.com/llxo/mjjnav.git
-   cd nav
+   cd mjjnav
    ```
 
 2. **安装依赖**
@@ -139,4 +139,5 @@ docker run -d --name mjjnav \
 4. **访问应用**
    ```
    http://localhost:721
+
    ```
